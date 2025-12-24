@@ -48,6 +48,9 @@ using Autodesk.Revit.UI.Selection;
 using System;
 using System.Text;
 
+// как использовать .gitignore
+// https://sky.pro/wiki/profession/kak-integrirovat-git-v-visual-studio/
+
 namespace FirstRevitPlugin
 {
     [Autodesk.Revit.Attributes.Transaction(
@@ -80,7 +83,7 @@ namespace FirstRevitPlugin
             string markName = GetStringParam(element, markParam);
 
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Id элемента: {id.IntegerValue}");
+            sb.AppendLine($"Id элемента: {id.Value}");
             sb.AppendLine($"Имя кабеля: {cableName}");
             sb.AppendLine($"Марка элемента: {markName}");
 

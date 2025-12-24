@@ -70,8 +70,7 @@
               "RelativeToolTip": "bin\\Debug\\FirstRevitPlugin.addin",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
-              "WhenOpened": "2025-12-24T03:12:27.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T03:12:27.947Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
               "RelativeDocumentMoniker": "FirstRevitCommand.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\FirstRevitPlugin\\FirstRevitCommand.cs",
               "RelativeToolTip": "FirstRevitCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T02:59:05.115Z",
               "EditorCaption": ""
