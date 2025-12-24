@@ -1,0 +1,12 @@
+C:\Users\Fishman\source\repos\FirstRevitPlugin\bin\Debug\FirstRevitPlugin.dll
+C:\Users\Fishman\source\repos\FirstRevitPlugin\bin\Debug\FirstRevitPlugin.pdb
+C:\Users\Fishman\source\repos\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.csproj.AssemblyReference.cache
+C:\Users\Fishman\source\repos\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Fishman\source\repos\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.dll
+C:\Users\Fishman\source\repos\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.pdb
+C:\Users\Fishman\Documents\GitHub\FirstRevitPlugin\bin\Debug\FirstRevitPlugin.dll
+C:\Users\Fishman\Documents\GitHub\FirstRevitPlugin\bin\Debug\FirstRevitPlugin.pdb
+C:\Users\Fishman\Documents\GitHub\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.csproj.AssemblyReference.cache
+C:\Users\Fishman\Documents\GitHub\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Fishman\Documents\GitHub\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.dll
+C:\Users\Fishman\Documents\GitHub\FirstRevitPlugin\obj\Debug\FirstRevitPlugin.pdb
